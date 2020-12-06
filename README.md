@@ -1,4 +1,4 @@
-# RTX-stock-bot
+# RTX-Alert-Discord-Bot
 ## Enable/disabling bot
 !rtx
 The altert will be send in the channel the !rtx was sent. 
